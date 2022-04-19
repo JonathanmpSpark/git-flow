@@ -1,2 +1,2 @@
-jonathan.munoz@sparktechs.com
+email: jonathan.munoz@sparktechs.com
 username: jonathan.munoz
